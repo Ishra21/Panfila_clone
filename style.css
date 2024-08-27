@@ -130,6 +130,13 @@
 .box i {
     font-size: 25px;
 }
+
+.box:hover{
+    width:60px;
+  
+
+    /* height: 70px; */
+}
 .box:first-child{
     background-color:#194DA8;
     border-radius: 5px 0px 0px 0px;
